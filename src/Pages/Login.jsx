@@ -5,7 +5,7 @@ import apple from "../assets/apple.svg";
 import google from "../assets/google.svg";
 import x from "../assets/x.svg";
 
-const SignUp = () => {
+const Login = () => {
   const [phoneNumber, setPhoneNumber] = useState("");
   const [password, setPassword] = useState("");
   const [hidden, setHidden] = useState(true);
@@ -62,4 +62,4 @@ const SignUp = () => {
   );
 };
 
-export default SignUp;
+export default Login;

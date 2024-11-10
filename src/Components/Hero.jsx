@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="container mx-auto py-12 px-8 relative">
         <div className="flex items-center justify-between mb-12">
           <div className="flex gap-4 items-center">
-            <Link to="/sign-up" className="bg-[#336279] text-white px-8 py-2 rounded-lg">تسجيل</Link>
+            <Link to="/login" className="bg-[#336279] text-white px-8 py-2 rounded-lg">تسجيل</Link>
             <Link to="/login" className="text-white">دخول</Link>
           </div>
           <ul>
