@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cardShadow{
+  box-shadow: 1px 1px 1px 0px #00000040;
+}
